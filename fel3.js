@@ -1,3 +1,1 @@
-while (condition) {
-    setInterval(function() {element.innerHTML += "Hurrá"}, 2000);
-}
+setInterval(function() {element.innerHTML += "Hurrá"}, 2000);
